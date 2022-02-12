@@ -1,3 +1,3 @@
-# Tik-Tak-Toe
+# Tik-Tac-Toe
 
-Simple game of tik tak toe for two.
+Simple game of tik tac toe for two.
